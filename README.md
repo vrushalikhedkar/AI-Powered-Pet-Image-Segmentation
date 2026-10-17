@@ -40,40 +40,6 @@ AI-Powered-Pet-Image-Segmentation/
 
 The `uploads/` directory is created automatically when the Flask application starts.
 
-## Installation and Setup
-
-### 1. Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd YOUR_REPOSITORY_FOLDER
-```
-
-Replace the placeholders with your actual GitHub repository URL and folder name.
-
-### 2. Install dependencies
-
-```bash
-pip install flask tensorflow numpy pillow
-```
-
-Use a compatible Python and TensorFlow environment.
-
-### 3. Run the application
-
-```bash
-python app.py
-```
-
-### 4. Open the application
-
-Visit:
-
-```text
-http://127.0.0.1:5000
-```
-
-Upload a cat or dog image and click **Segment Image** to view the predicted mask.
 
 ## Model Details
 
