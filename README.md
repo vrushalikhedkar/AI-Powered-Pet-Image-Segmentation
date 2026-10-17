@@ -34,11 +34,8 @@ AI-Powered-Pet-Image-Segmentation/
 ├── segmentation_model.h5
 ├── templates/
 │   └── index.html
-├── uploads/
 └── README.md
 ```
-
-The `uploads/` directory is created automatically when the Flask application starts.
 
 
 ## Model Details
